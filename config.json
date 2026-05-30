@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordervpdate",
+        "uuid": 5502880,
+        "checksum": "e21pgo"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
